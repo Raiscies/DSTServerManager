@@ -1,0 +1,26 @@
+
+ServerDisplayItem {
+    layout: horizontal;
+    background: $boost;
+    height: 5;
+    margin: 1;
+    min-width: 50;
+    padding: 1;
+}
+
+#the_input {
+    border-left: hidden;
+    border-right: hidden;
+    /* border: hkey; */
+    padding-left: 0;
+    padding-right: 0;
+    /* height: 2; */
+    max-height: 2;
+    /* background: black; */
+    /*
+    border: hidden;
+    border-top: hkey darkgray;
+    border-bottom: hkey darkgray;
+    */
+}
+
